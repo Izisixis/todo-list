@@ -4,7 +4,7 @@
 
         ## Installation
 
-        1. Clone the repository: `git clone <repository_url>`
+        1. Clone the repository: `git clone https://github.com/Izisixis/todo-list.git`
         2. Navigate to the server directory: `cd server`
         3. Install dependencies: `npm install`
         4. Navigate to the client directory: `cd client`
